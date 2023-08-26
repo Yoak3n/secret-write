@@ -1,8 +1,12 @@
 ## 一个偷摸写作electron+vue3的简单工具
 
 ### Preview
-![](https://github.com/Yoak3n/secret-write/blob/main/docs/show_border.png)
+
+![](https://github.com/Yoak3n/secret-write/blob/main/docs/hide_all.png)
 ![](https://github.com/Yoak3n/secret-write/blob/main/docs/hide_border.png)
+![](https://github.com/Yoak3n/secret-write/blob/main/docs/show_border.png)
+
+
 ### Usage
 Alt + Q 显示/隐藏窗口  
 Alt + A 显示/隐藏边框（防止找不到在哪以及支持拖动）  
