@@ -9,8 +9,8 @@ app.whenReady().then(()=>{
     let mainWin:BrowserWindow = new BrowserWindow({
         show: false,
         title:'秘密写作',
-        height: 50,
-        width: 800,
+        height: 25,
+        width: 300,
         webPreferences: {
             nodeIntegration: true,
             contextIsolation: false,
